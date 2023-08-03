@@ -1,6 +1,6 @@
 # vue-pizza
 
-This template should help get you started developing with Vue 3 in Vite.
+Пиццерия vue-pizza на Vue3, pinia, firebase. Админка для неё: https://github.com/BrooksPMA/vue-pizza-admin-panel
 
 ## Recommended IDE Setup
 
